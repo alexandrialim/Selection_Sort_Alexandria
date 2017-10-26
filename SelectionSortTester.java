@@ -10,6 +10,7 @@ public class SelectionSortTester {
 		
         // The name of the file to open.
         String fileName = "./selection-sort-starter-master/temp.txt";
+        // or String fileName = "./selection-sort-starter-master/temp1.txt";
 
         // This will reference one line at a time
         String line = null;
